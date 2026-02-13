@@ -1,0 +1,67 @@
+2026-02-03 08:31:44,028 | INFO | UploadRoutes | Appel API upload_file
+2026-02-03 08:31:44,064 | INFO | UploadRoutes | Fichier 68fac50c-d587-4a4d-a475-403dbf297ec1.png uploadé avec succès
+2026-02-03 08:31:54,075 | INFO | UploadRoutes | Appel API upload_file
+2026-02-03 08:31:54,093 | INFO | UploadRoutes | Fichier 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png uploadé avec succès
+2026-02-03 08:34:50,801 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 08:34:50,803 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 09:47:51,167 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 09:47:51,169 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 09:52:15,337 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 09:52:15,338 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 09:54:35,936 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 09:54:35,938 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 10:06:21,865 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 10:06:21,867 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 10:16:40,155 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 10:16:40,156 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 10:17:27,349 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 10:17:27,352 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 10:19:48,134 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 10:19:48,135 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 10:20:32,222 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 10:20:32,223 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 10:23:06,079 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 10:23:06,079 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 10:55:41,196 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 10:55:41,197 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-03 11:23:43,507 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-03 11:23:43,508 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-04 09:19:11,036 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-04 09:19:11,037 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-04 11:51:41,852 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-04 11:51:41,854 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-04 12:14:51,982 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-04 12:14:51,983 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-04 12:27:44,225 | INFO | UploadRoutes | Recuperation du fichier : 68fac50c-d587-4a4d-a475-403dbf297ec1.png
+2026-02-04 12:27:44,226 | INFO | UploadRoutes | Recuperation du fichier : 69a7ccc1-f99f-481c-901a-2bdde6869dd9.png
+2026-02-11 09:45:55,301 | INFO | UploadRoutes | Appel API upload_file
+2026-02-11 09:45:55,309 | INFO | UploadRoutes | Fichier f6268f25-83f1-491b-bd68-bb1cae411885.png uploadé avec succès
+2026-02-11 11:48:20,127 | INFO | UploadRoutes | Appel API upload_file
+2026-02-11 11:48:20,162 | INFO | UploadRoutes | Fichier 99dd9e42-2748-4992-bb62-00ef733d0cf5.png uploadé avec succès
+2026-02-11 11:48:47,002 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 12:00:56,928 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 12:01:59,542 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 12:02:03,351 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:03:33,748 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:16:53,732 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:16:59,194 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:20:09,490 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:22:08,455 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:23:00,101 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:35:37,138 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-11 13:42:56,571 | INFO | UploadRoutes | Appel API upload_file
+2026-02-11 13:42:56,587 | INFO | UploadRoutes | Fichier 2b616c9f-a949-4609-9037-e2ba374798ed.png uploadé avec succès
+2026-02-11 13:48:25,003 | INFO | UploadRoutes | Recuperation du fichier : 2b616c9f-a949-4609-9037-e2ba374798ed.png
+2026-02-11 13:48:25,004 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-12 08:58:33,534 | INFO | UploadRoutes | Recuperation du fichier : 2b616c9f-a949-4609-9037-e2ba374798ed.png
+2026-02-12 08:58:33,535 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-12 11:54:15,663 | INFO | UploadRoutes | Recuperation du fichier : 2b616c9f-a949-4609-9037-e2ba374798ed.png
+2026-02-12 11:54:15,666 | INFO | UploadRoutes | Recuperation du fichier : 99dd9e42-2748-4992-bb62-00ef733d0cf5.png
+2026-02-12 11:55:55,856 | INFO | UploadRoutes | Recuperation du fichier : null
+2026-02-12 11:55:55,857 | INFO | UploadRoutes | Recuperation du fichier : 2b616c9f-a949-4609-9037-e2ba374798ed.png
+2026-02-12 11:56:41,081 | INFO | UploadRoutes | Recuperation du fichier : null
+2026-02-12 11:56:41,083 | INFO | UploadRoutes | Recuperation du fichier : 2b616c9f-a949-4609-9037-e2ba374798ed.png
+2026-02-12 11:57:25,023 | INFO | UploadRoutes | Recuperation du fichier : null
+2026-02-12 11:57:25,024 | INFO | UploadRoutes | Recuperation du fichier : 2b616c9f-a949-4609-9037-e2ba374798ed.png
+2026-02-12 12:06:55,450 | INFO | UploadRoutes | Recuperation du fichier : null
+2026-02-12 12:06:55,451 | INFO | UploadRoutes | Recuperation du fichier : 2b616c9f-a949-4609-9037-e2ba374798ed.png
