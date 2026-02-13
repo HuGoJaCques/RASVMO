@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Node / Svelte
+node_modules/
+.svelte-kit/
+build/
+.DS_Store
+package-lock.json
+yarn.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Backups
+*.backup
+backup_*/
+*.sql
+
+# Uploads (si vous ne voulez pas versionner les images)
+uploads/
