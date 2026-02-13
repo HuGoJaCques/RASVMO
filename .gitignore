@@ -229,5 +229,5 @@ Thumbs.db
 backup_*/
 *.sql
 
-# Uploads 
+# Uploads
 uploads/
